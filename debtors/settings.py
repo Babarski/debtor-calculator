@@ -25,7 +25,7 @@ SECRET_KEY = 'ij!p_!t+!r+6=z#+*ej0^zzfjs(7a4gq!w9u5wek+p+pefq*#j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['debtor-calculator.herokuapp.com',]
 
 
 # Application definition
